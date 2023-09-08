@@ -15,7 +15,7 @@ function displayDiff() {
   let total = firstNum - secondNum;
   document.getElementById("Subanswer").innerHTML = ` ${firstNum} - ${secondNum}, equals to ${total}` ;
 }
-}
+
   
 
 
